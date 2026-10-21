@@ -2,4 +2,7 @@
 Portfolio Website com foto de anime de otaku
 
 
-# T
+# # Tecnologias utilizadas 🤖
+* HTML
+* CSS
+
