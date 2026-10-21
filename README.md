@@ -6,3 +6,5 @@ Portfolio Website com foto de anime de otaku
 * HTML
 * CSS
 
+# Agradecimentos 🫶
+* Professor Alexandre
