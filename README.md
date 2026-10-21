@@ -1,2 +1,2 @@
 # Portfolio-Anime
-Portfolio Website com foto de anime de otak
+Portfolio Website com foto de anime de otaku
