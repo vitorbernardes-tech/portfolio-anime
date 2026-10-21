@@ -10,4 +10,4 @@ Portfolio Website com foto de anime de otaku
 * Professor Alexandre
 * Pro Coder
 
-Gostei de alternar o portfolio professor foi legal demais tmj 🤟
+Fiz umas alterações no portfolio professor foi legal demais tmj 🤟
