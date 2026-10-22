@@ -10,6 +10,6 @@ Portfolio Website com foto de anime de otaku
 * Professor Alexandre
 * Pro Coder
 
-Fiz umas alterações no portfolio professor para deixá-lo mais diferente e estiloso com a cor azul💙 
+Fiz umas alterações no portfolio professor para deixá-lo mais diferente e estiloso com a cor azul 💙 
 
-É no🤟
+É nois 🤟
